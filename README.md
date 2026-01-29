@@ -1,0 +1,1 @@
+# cloudelligent-aws-s3-image-resize-lambda
